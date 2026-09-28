@@ -1,4 +1,4 @@
-# Plateful — legal and support pages
+# Plateful — website, legal and support pages
 
 Served by GitHub Pages at https://anacs-26.github.io/plateful-site/
 
