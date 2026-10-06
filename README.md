@@ -1,10 +1,10 @@
 # Plateful — website, legal and support pages
 
-Served by GitHub Pages at https://anacs-26.github.io/plateful-site/
+Served by GitHub Pages at https://platefulhq.com/
 
-- Terms of Use: https://anacs-26.github.io/plateful-site/terms/
-- Privacy Policy: https://anacs-26.github.io/plateful-site/privacy/
-- Support: https://anacs-26.github.io/plateful-site/support/
+- Terms of Use: https://platefulhq.com/terms/
+- Privacy Policy: https://platefulhq.com/privacy/
+- Support: https://platefulhq.com/support/
 
 These files are generated from the Plateful app's source, where the
 same text is shown in the app. Do not edit them here: a change made in
